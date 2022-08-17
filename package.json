@@ -1,6 +1,6 @@
 {
   "name": "@vsme/vue-virtual-scroller",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "typescript declaration for vue-virtual-scroller vue 3",
   "main": "index.d.ts",
   "scripts": {
