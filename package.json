@@ -1,0 +1,26 @@
+{
+  "name": "@vsme/vue-virtual-scroller",
+  "version": "1.0.0",
+  "description": "typescript declaration for vue-virtual-scroller vue 3",
+  "main": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vsme/vue-virtual-scroller.git"
+  },
+  "keywords": [
+    "vue",
+    "vue3",
+    "virtual-scroller",
+    "@type",
+    "types"
+  ],
+  "author": "Yaavi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vsme/vue-virtual-scroller/issues"
+  },
+  "homepage": "https://github.com/vsme/vue-virtual-scroller#readme"
+}
