@@ -1,2 +1,3 @@
 # Installation
-> `npm install --save @types/vue-virtual-scroller@npm:@vsme/vue-virtual-scroller`
+
+`npm install --save-dev @types/vue-virtual-scroller@npm:@vsme/vue-virtual-scroller`
